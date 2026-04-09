@@ -57,7 +57,7 @@
 | M5x20 SHCS | 4 | |
 | M5 roll-in nut | 4 | |
 
-### Specialty hardware
+### Specialty
 | Part | Quantity | Notes |
 |:-|:-:|:-|
 | M3x16 binding post | 3 | https://www.amazon.com/dp/B0D8JDDVYF |
