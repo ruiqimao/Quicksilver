@@ -6,7 +6,10 @@
     * *(with an offset bed)*
   * 200mm x 200mm footprint
   * CoreXY kinematics
-  * Milled aluminum parts
+  * CNC milled aluminum parts
+    * 12mm thick halo
+    * Unibody XY joints/X beam
+    * Fully metal Z carriage
   * NEMA17 XY motors
   * Sheet cooling
   * Options for Bowden extruder (Sherpa Mini) or direct extruder (Sherpa Micro)
