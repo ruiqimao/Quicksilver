@@ -27,7 +27,7 @@
 
 ## BOM
 
-Bill of materials can be found at [BOM.md](BOM.md).
+Bill of materials and other notes can be found at [BOM.md](BOM.md).
 
 ## Acknowledgements
 
