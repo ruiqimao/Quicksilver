@@ -71,6 +71,7 @@
 | MakerBeamXL T nut | 2 | https://www.makerbeam.com/t-slot-nuts-for-makerbeamxl-50p.html |
 | PC4-M6 bowden coupler | 2 | |
 | 8mm OD x 20mm length bed spring | 3 | |
+| 15mm OD x 8mm height rubber foot | 4 | https://www.amazon.com/dp/B0BFGYZQS8 |
 
 ## Electronics
 | Part | Quantity | Notes |
