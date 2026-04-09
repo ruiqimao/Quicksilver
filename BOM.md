@@ -5,7 +5,7 @@
 ### Hardware
 | Part | Quantity | Notes |
 |:-|:-:|:-|
-| 16 tooth press fit GT2 pulley | 2 | https://www.filastruder.com/products/gates-2gt-pulley-custom-no-grub-set-screw?variant=41243545174087 |
+| 16 tooth slip/press fit GT2 pulley | 2 | https://www.filastruder.com/products/gates-2gt-pulley-custom-no-grub-set-screw?variant=41243545174087 |
 | 20 tooth GT2 pulley | 2 | |
 | 3x7 pin | 4 | |
 | 3x23 pin | 2 | |
@@ -84,3 +84,4 @@
 | Sherpa Mini extruder | 1 | For bowden configuration |
 | Sherpa Micro extruder | 1 | For direct configuration |
 | Voron 0 spec bed | 1 | LDO 100W polyimide heater bed recommended |
+| Loctite 641 | 1 | For retaining slip/press fit pulley onto pin |
