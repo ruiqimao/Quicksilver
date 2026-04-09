@@ -85,3 +85,8 @@
 | Sherpa Micro extruder | 1 | For direct configuration |
 | Voron 0 spec bed | 1 | LDO 100W polyimide heater bed recommended |
 | Loctite 641 | 1 | For retaining slip/press fit pulley onto pin |
+
+# Notes
+  * This printer is designed for use with a Duet 3 Mini 5+, and thus, the bottom plate has tapped holes intended for it. However, other small form factor control boards, such as the SKR Pico, will work as well, provided adjusted mounting.
+  * The PSU has a 300W output limit, but is only rated to 180W without forced air cooling. Exceeding 180W temporarily (e.g. initial heat up) will be safe, but do not sustain higher than 180W load.
+  * All dimensions for milled parts in CAD are set to nominal dimensions. Adjust for tolerances as needed.
