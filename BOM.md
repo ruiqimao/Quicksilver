@@ -89,8 +89,8 @@
 | Part | Quantity | Notes |
 |:-|:-:|:-|
 | Slice Engineering Mosquito Magnum | 1 | |
-| Sherpa Mini extruder | 1 | For bowden configuration |
-| Sherpa Micro extruder | 1 | For direct configuration |
+| Sherpa Mini extruder | 1 | For bowden configuration, https://github.com/Annex-Engineering/Sherpa_Mini-Extruder |
+| Sherpa Micro extruder | 1 | For direct configuration, https://github.com/Annex-Engineering/Sherpa_Micro-Extruder |
 | Voron 0 spec bed | 1 | LDO 100W polyimide heater bed recommended |
 | Loctite 641 | 1 | For retaining slip/press fit pulley onto pin |
 
