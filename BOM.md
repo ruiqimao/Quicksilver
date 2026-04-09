@@ -1,5 +1,12 @@
 # Bill of Materials
 
+## Frame
+| Part | Quantity | Notes |
+|:-|:-:|:-|
+| HFS5-2020-150-TPW | 4 | |
+| HFS5-2040-150-TPW | 2 | |
+| HFS5-2020-120-TPW | 2 | |
+
 ## Motion
 
 ### Hardware
